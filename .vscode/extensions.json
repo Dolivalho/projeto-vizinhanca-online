@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "otovo-oss.htmx-tags",
+        "glenn2223.live-sass",
+        "vunguyentuan.vscode-postcss",
+        "prisma.prisma",
+        "ms-python.debugpy",
+        "ms-python.python",
+        "manishsencha.readme-preview",
+        "syler.sass-indented",
+        "qwtel.sqlite-viewer",
+        "sujeitoprogramador.sujeitoprogramador-react-native",
+        "bradlc.vscode-tailwindcss",
+        "rangav.vscode-thunder-client",
+        "deerawan.vscode-faker",
+        "vscode-icons-team.vscode-icons",
+        "codeium.codeium",
+        "clinyong.vscode-css-modules",
+        "dbaeumer.vscode-eslint",
+        "chamboug.js-auto-backticks"
+    ]
+}
